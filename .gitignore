@@ -1,0 +1,5 @@
+data/
+node_modules/
+
+config/mailer.json
+package-lock.json

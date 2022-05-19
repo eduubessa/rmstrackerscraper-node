@@ -1,0 +1,39 @@
+{
+  "name": "rmstrackerscraper-node",
+  "version": "1.0.0",
+  "description": "RMS Tracker Web Scraper with NodeJS",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/eduardobessait/rmstrackerscraper-node.git"
+  },
+  "keywords": [
+    "node",
+    "javascript",
+    "scraper",
+    "web",
+    "rms",
+    "tracker",
+    "singularity",
+    "digital",
+    "enterprise",
+    "jobs",
+    "opportunity"
+  ],
+  "author": "Eduardo Bessa <eduardo.bessa@singularityde.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/eduardobessait/rmstrackerscraper-node/issues"
+  },
+  "homepage": "https://gitlab.com/eduardobessait/rmstrackerscraper-node#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "jsdom": "^19.0.0",
+    "node": "^17.7.2",
+    "nodemailer": "^6.7.5",
+    "request": "^2.88.2"
+  }
+}
