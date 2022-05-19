@@ -12,8 +12,9 @@
 
 ```npm install```
 
-4. Create a folder
+4. Create a folders (config and data)
 
+```mkdir ./config```
 ```mkdir ./data```
 
 5. Configure the mailer on the config/mailer.json file
